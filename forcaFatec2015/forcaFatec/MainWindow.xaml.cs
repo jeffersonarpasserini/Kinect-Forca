@@ -30,7 +30,7 @@ namespace forcaFatec
         //Verificar quantos kinects estão conectados
         KinectSensorChooser meuKinect;
 
-        public String dir_sistema = @"C:\Users\jeffersonpasserini\Downloads\forcaFatec\forcaFatec";
+        public String dir_sistema = @"C:\curso\Kinect-Forca\forcaFatec2015\forcaFatec";
         //public String dir_sistema = Directory.GetCurrentDirectory();
         public string dirSons;
         public String somErro;
